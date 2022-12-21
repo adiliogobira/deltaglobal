@@ -5,7 +5,7 @@ So teste solicitado pelos recrutadores da Delta Global
 Para que a instalação possa ser feita, baixe o repositório com o comando
 
 ``
-composer require adiliogobira/deltaglobal
+git clone https://github.com/adiliogobira/deltaglobal.git
 ``
 
 Após baixar o repositório baixe todas as dependências do projeto com o comando
